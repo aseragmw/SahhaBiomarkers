@@ -1,8 +1,8 @@
-# Sahha App
+# Sahha Biomarkers App
 
 ### Overview
 
-The **Sahha App** is a health and wellbeing monitoring tool that collects data from the user's device and analyzes it using **Sahha AI models**. It provides users with key insights into their **sleep patterns**, **mental wellbeing**, **physical activity**, and more. By delivering scores and detailed biomarker information, users can better understand and track their health.
+The **Sahha Biomarkers App** is a health and wellbeing monitoring tool that collects data from the user's device and analyzes it using **Sahha AI models**. It provides users with key insights into their **sleep patterns**, **mental wellbeing**, **physical activity**, and more. By delivering scores and detailed biomarker information, users can better understand and track their health.
 
 ### Features
 
