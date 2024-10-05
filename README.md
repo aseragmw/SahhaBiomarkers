@@ -17,6 +17,12 @@ The **Sahha Biomarkers App** is a health and wellbeing monitoring tool that coll
 - Simple and intuitive **user interface** for easy navigation.
 - Future implementation of **user authentication** for personalized tracking.
 
+### APK
+You can download the APK from 
+https://drive.google.com/file/d/1yyXMFj-a57Bvexii--aVHNSgAysvZMXW/view?usp=sharing
+Or 
+https://www.mediafire.com/file/tohiybchv0tvex7/sahha.apk/file
+
 ### Screenshots
 
 <p align="center">
