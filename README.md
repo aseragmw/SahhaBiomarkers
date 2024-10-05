@@ -20,10 +20,10 @@ The **Sahha App** is a health and wellbeing monitoring tool that collects data f
 ### Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <div style="width: 48%;">
+    <div style="width: 200">
         <img src="https://github.com/user-attachments/assets/e9a84335-9275-41f9-aa78-5ba52efedcdf" alt="Screenshot 1" style="width: 100%;"/>
     </div>
-    <div style="width: 48%;">
+    <div style="width: 200">
         <img src="https://github.com/user-attachments/assets/599f753a-7637-410d-adfb-469e8a687e33" alt="Screenshot 2" style="width: 100%;"/>
     </div>
 </div>
