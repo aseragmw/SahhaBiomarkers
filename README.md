@@ -1,16 +1,18 @@
-# sahha_app
+# Sahha App
 
-A new Flutter project.
+### Overview
 
-## Getting Started
+The **Sahha App** is a health and wellbeing monitoring tool that collects data from the user's device and analyzes it using **Sahha AI models**. It provides users with key insights into their **sleep patterns**, **mental wellbeing**, **physical activity**, and more. By delivering scores and detailed biomarker information, users can better understand and track their health.
 
-This project is a starting point for a Flutter application.
+### Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Collects and sends health data to **Sahha AI models** for analysis.
+- Provides 5 key health scores:
+  - **Sleep**
+  - **Mental Wellbeing**
+  - **Overall Wellbeing**
+  - **Physical Activity**
+  - **Readiness**
+- Displays detailed **biomarkers** for each health score.
+- Simple and intuitive **user interface** for easy navigation.
+- Future implementation of **user authentication** for personalized tracking.
