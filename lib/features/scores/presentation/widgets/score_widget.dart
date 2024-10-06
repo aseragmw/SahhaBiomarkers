@@ -73,7 +73,7 @@ class ScoreWiget extends StatelessWidget {
                         color: AppTheme.blackColor),
                   ),
                   Text(
-                    score.state.capitalize(),
+                    score.state,
                     style: TextStyle(
                         fontWeight: AppTheme.fontWeight400,
                         fontSize: AppTheme.fontSize14(context),

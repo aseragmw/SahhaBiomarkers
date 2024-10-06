@@ -1,7 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:sahha_app/core/extentions/screen_size.dart';
 import 'package:sahha_app/core/widgets/main_layout.dart';
 import 'package:sahha_app/features/scores/presentation/screens/home_screen.dart';
 import 'package:sahha_flutter/sahha_flutter.dart';
@@ -14,7 +13,7 @@ import '../view_models/scores_event.dart';
 import '../view_models/scores_state.dart';
 
 class SplashScreen extends StatefulWidget {
-   SplashScreen({super.key});
+  SplashScreen({super.key});
 
   @override
   State<SplashScreen> createState() => _SplashScreenState();
@@ -52,8 +51,8 @@ class _SplashScreenState extends State<SplashScreen> {
         });
       }
       if (state is GetScoresSuccessState) {
-         scores = state.scores;
-         Navigator.of(context).pushAndRemoveUntil(MaterialPageRoute(builder: (_)=>HomeScreen(scores: scores)), (route) => false);
+        scores = state.scores;
+        Navigator.of(context).pushAndRemoveUntil(MaterialPageRoute(builder: (_)=>HomeScreen(scores: scores)), (route) => false);
       }
     })
     );
